@@ -12,13 +12,19 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Counting
+|  |
+| ------- |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
