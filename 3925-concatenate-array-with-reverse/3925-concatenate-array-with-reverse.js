@@ -3,7 +3,8 @@
  * @return {number[]}
  */
 var concatWithReverse = function (nums) {
-    let reversed = [...nums].reverse();
-    let result = nums.concat(reversed);
-    return result;
+    for (let i = nums.length - 1; i >= 0; i--) {
+        nums.push(nums[i])
+    }
+    return nums;
 };
