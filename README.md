@@ -17,6 +17,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
