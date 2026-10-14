@@ -14,6 +14,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1920-build-array-from-permutation) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -53,5 +54,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/1920-build-array-from-permutation) |
 | [3925-concatenate-array-with-reverse](https://github.com/KHAIRUNNEESA-K/https-github.com-KHAIRUNNEESA-K-leetcode_may/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
